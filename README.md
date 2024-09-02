@@ -2,7 +2,7 @@
   
 # Hi there, I'm Shivam Gohil! 
 
-I'm a passionate Information Technology student with a strong interest in Data Science and Development. Welcome to my GitHub profile, where I showcase my projects and skills.
+AI enthusiast with a strong Data Science foundation, skilled in machine learning and data analysis. Driven to solve complex problems and deliver innovative, AI-powered solutions. Focused on continuous learning and advancing cutting-edge technologies.
 
 ## Skills
 
